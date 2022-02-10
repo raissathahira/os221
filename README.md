@@ -1,18 +1,8 @@
 
----
----
-<span style="color:blue; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+# os221
+## Operating Systems 2021-1 (Semester Genap 2021/2022)
+######  by Raissa Thahira
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.myloglink }}) ---
 [GITHUB]({{ site.githublink }})
-<br>
-<hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-Qapla!
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
