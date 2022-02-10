@@ -10,5 +10,3 @@ markdown:    kramdown
 input:       GFM
 hard_wrap:   false
 github:      [metadata]
-
-theme: jekyll-theme-minimal
