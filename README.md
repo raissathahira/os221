@@ -1,8 +1,8 @@
 ##### by Raissa Thahira
 <hr>
 
-## Weekly Assignment<br>
-## [WO1](W01/)
+Weekly Assignment
+1. [WO1](W01/)
 
 
 
