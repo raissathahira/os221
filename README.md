@@ -2,7 +2,7 @@
 <hr>
 
 Weekly Assignment
-1. [WO1](W01/)
+1. [WO1](W01.md)
 
 
 
