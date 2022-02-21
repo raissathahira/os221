@@ -1,6 +1,9 @@
 ##### by Raissa Thahira
 <hr>
 
+##Weekly Assignment
+##[WO1](W01/)
+
 
 
 ### OS related github :
