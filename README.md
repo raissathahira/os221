@@ -1,6 +1,9 @@
 ##### by Raissa Thahira
 <hr>
 
+Weekly Assignment
+1. [WO1](W01.md)
+
 
 
 ### OS related github :
