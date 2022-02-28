@@ -3,6 +3,7 @@
 
 Weekly Assignment
 1. [WO1](W01.md)
+2. [WO2](W02.md)
 
 
 
