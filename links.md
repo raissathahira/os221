@@ -18,3 +18,9 @@ Video ini menjelaskan SHA dan cara kerjanya. penjelasan menarik dan mudah dimeng
 2. [Password Cracking](https://www.youtube.com/watch?v=7U-RbOKanYs)<br>
 video ini menjelaskan mengenai password cracking.
 
+-------------------------------------
+Recommendation for week 3
+
+1. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+   Video ini menjelaskan mengenai files and file system. video ini juga menjelaskan mengenai bagaimana komputer bisa menyimpan data secara teroragnisir dan mudah diakses oleh user.
+
