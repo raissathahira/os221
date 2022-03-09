@@ -16,4 +16,8 @@ ZCZC WO2 120 L12 Assignment #02
 ZCZC W02 30 L13 Assignment #03
 ZCZC W02 15 L14 Assignment #04
 ZCZC W02 15 L15 Assignment #05
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 80 L02 ZOOM meetings related
+ZCZC W03 30 L11 Assignment #01
+ZCZC WO3 60 L12 Assignment #02
 
