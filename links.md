@@ -23,4 +23,9 @@ Recommendation for week 3
 
 1. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
    Video ini menjelaskan mengenai files and file system. video ini juga menjelaskan mengenai bagaimana komputer bisa menyimpan data secara teroragnisir dan mudah diakses oleh user.
+   
+-------------------------------------
+Recommendation for week 4
+1. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)
+   Video ini menjelaskan bagaimana program C menggunakan pointer
 
