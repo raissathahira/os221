@@ -26,6 +26,8 @@ Recommendation for week 3
    
 -------------------------------------
 Recommendation for week 4
-1. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)
+
+1. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)<br>
    Video ini menjelaskan bagaimana program C menggunakan pointer
+ 
 
