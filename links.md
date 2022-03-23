@@ -29,5 +29,14 @@ Recommendation for week 4
 
 1. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)<br>
    Video ini menjelaskan bagaimana program C menggunakan pointer
+
+-------------------------------------
+Recommendation for week 5
+
+1. [Demand paging](https://www.javatpoint.com/os-demand-paging)<br>
+   Artikel ini menjelaskan mengenai demand paging.
+2. [Page fault](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)
+   Artikel ini menjelaskan mengenai pengertian dan tahapan yang terjadi pada page fault.
+  
  
 
