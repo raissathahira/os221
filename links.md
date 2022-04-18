@@ -37,6 +37,14 @@ Recommendation for week 5
    Artikel ini menjelaskan mengenai demand paging.
 2. [Page fault](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
    Artikel ini menjelaskan mengenai pengertian dan tahapan yang terjadi pada page fault.
+   
+-------------------------------------
+Recommendation for week 6
+
+1. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+   Video ini menjelaskan mengenai fork dan exec command. Pada video dijelaskan fungsi dari fork dan exec command serta contohnya saat dieksekusi.
+2. [Fork System Call in Linux](https://linuxhint.com/fork-system-call-linux/)<br>
+   Artikel ini menjelaskan mengenai fork pada system call Linux. Terdapat juga penjelasan mengenai perbedaan pada process ID antara child dan parentnya, property dari child process, dan property yang tidak di-inherit oleh child. 
   
  
 
