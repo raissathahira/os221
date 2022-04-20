@@ -1,5 +1,5 @@
 ---
-permalink : /LINK/
+permalink : /LINKS/
 ---
 Recommendation for week 1
 
