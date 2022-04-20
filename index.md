@@ -2,7 +2,7 @@
 <hr>
 
 Weekly Assignment
-1. [LINK](links.md)
+1. [LINKS](https://raissathahira.github.io/os221/LINKS/)
 
 
 
