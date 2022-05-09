@@ -45,6 +45,15 @@ Recommendation for week 6
    Video ini menjelaskan mengenai fork dan exec command. Pada video dijelaskan fungsi dari fork dan exec command serta contohnya saat dieksekusi.
 2. [Fork System Call in Linux](https://linuxhint.com/fork-system-call-linux/)<br>
    Artikel ini menjelaskan mengenai fork pada system call Linux. Terdapat juga penjelasan mengenai perbedaan pada process ID antara child dan parentnya, property dari child process, dan property yang tidak di-inherit oleh child. 
+   
+-------------------------------------
+Recommendation for week 8
+
+1. [Completely Fair Scheduling (CFS)](https://www.youtube.com/watch?v=scfDOof9pww)<br>
+   Video ini menjelaskan mengenai CFS di Sistem Operasi Linux. CFS bertujuan untuk membagi waktu dengan seimbang.
+   
+2. [Priority Scheduling](https://www.guru99.com/priority-scheduling-program.html)<br>
+   Artikel ini menjelaskan mengenai apa itu priority scheduling. Terdapat penjelasan mengenai definisi, tipe, karakteristik, kelebihan dan kekurangan dari priority scheduling serta contoh dan ilustrasi.
   
  
 
